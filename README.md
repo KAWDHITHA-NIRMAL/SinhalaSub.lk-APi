@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://sinhalasub.lk/wp-content/uploads/2025/10/icon-1.png" alt="Main Icon" />
+</p>
+
 # 🎬 SinhalaSub Scraper API
 
 > A simple API to search, browse, and fetch movies & TV shows from **SinhalaSub.lk**.
